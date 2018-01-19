@@ -1,0 +1,15 @@
+{
+  "name": "libraryproject",
+  "version": "1.0.0",
+  "description": "This is a mini library that helps with the interaction of the divs in a webpage.",
+  "main": "/assets/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulina Baeza, Maria Paz Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.2.1"
+  }
+}
